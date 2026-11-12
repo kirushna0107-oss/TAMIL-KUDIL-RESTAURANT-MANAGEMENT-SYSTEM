@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Oct 22 21:40:06 IST 2026
+comment0.target=CartManager
+comment1.params=foodId foodName price
+comment1.target=void addItem(int, java.lang.String, double)
+comment2.target=java.util.ArrayList getCart()
+comment3.target=double getTotal()
+comment4.target=int getItemCount()
+comment5.target=void clearCart()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+#Thu Oct 22 21:40:09 IST 2026
+comment0.target=HomePage
+comment1.target=HomePage()
+comment10.params=args
+comment10.target=void main(java.lang.String[])
+comment11.target=void run()
+comment2.target=void buildInterface()
+comment3.params=text size style color
+comment3.target=javax.swing.JLabel createLabel(java.lang.String, int, int, java.awt.Color)
+comment4.params=text active
+comment4.target=javax.swing.JButton createNavigationButton(java.lang.String, boolean)
+comment5.params=text background foreground
+comment5.target=javax.swing.JButton createPillButton(java.lang.String, java.awt.Color, java.awt.Color)
+comment6.params=icon title subtitle
+comment6.target=javax.swing.JPanel createInfoBlock(java.lang.String, java.lang.String, java.lang.String)
+comment7.params=number icon title subtitle
+comment7.target=javax.swing.JPanel createFeatureCard(java.lang.String, java.lang.String, java.lang.String, java.lang.String)
+comment8.target=void openMenu()
+comment9.target=void openKitchen()
+numComments=12

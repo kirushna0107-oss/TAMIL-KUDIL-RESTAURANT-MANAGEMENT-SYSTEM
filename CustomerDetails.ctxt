@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Oct 22 21:40:06 IST 2026
+comment0.target=CustomerDetails
+comment1.target=CustomerDetails()
+comment2.target=void buildUI()
+comment3.params=text
+comment3.target=javax.swing.JLabel createLabel(java.lang.String)
+comment4.params=placeholder
+comment4.target=javax.swing.JTextField createTextField(java.lang.String)
+comment5.target=void confirmOrder()
+comment6.params=message
+comment6.target=void showError(java.lang.String)
+comment7.params=args
+comment7.target=void main(java.lang.String[])
+comment8.target=void run()
+numComments=9

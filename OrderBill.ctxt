@@ -1,0 +1,16 @@
+#BlueJ class context
+#Thu Oct 22 21:40:06 IST 2026
+comment0.target=OrderBill
+comment1.params=orderId customerName tableNumber totalAmount
+comment1.target=OrderBill(int, java.lang.String, int, double)
+comment2.target=void buildUI()
+comment3.params=text
+comment3.target=javax.swing.JLabel createHeaderLabel(java.lang.String)
+comment4.params=panel title value
+comment4.target=void addInfo(javax.swing.JPanel, java.lang.String, java.lang.String)
+comment5.target=void loadOrderItems()
+comment6.params=foodName quantity price
+comment6.target=void addFoodRow(java.lang.String, int, double)
+comment7.params=args
+comment7.target=void main(java.lang.String[])
+numComments=8

@@ -1,0 +1,26 @@
+#BlueJ class context
+#Thu Oct 22 21:40:09 IST 2026
+comment0.target=KitchenDashboard
+comment1.target=KitchenDashboard()
+comment10.params=status
+comment10.target=java.awt.Color getStatusColor(java.lang.String)
+comment11.target=void showEmptyMessage()
+comment12.params=message
+comment12.target=void showDatabaseError(java.lang.String)
+comment13.params=args
+comment13.target=void main(java.lang.String[])
+comment2.target=void buildUI()
+comment3.params=parent title description accent background
+comment3.target=javax.swing.JLabel createStatusCard(javax.swing.JPanel, java.lang.String, java.lang.String, java.awt.Color, java.awt.Color)
+comment4.target=void loadOrders()
+comment5.params=kitchenOrderId orderId status customerName tableNumber total
+comment5.target=void addOrderCard(int, int, java.lang.String, java.lang.String, int, double)
+comment6.params=panel orderId
+comment6.target=void loadItemsForOrder(javax.swing.JPanel, int)
+comment7.params=panel kitchenOrderId orderId status
+comment7.target=void addStatusButtons(javax.swing.JPanel, int, int, java.lang.String)
+comment8.params=text color
+comment8.target=javax.swing.JButton createActionButton(java.lang.String, java.awt.Color)
+comment9.params=kitchenOrderId orderId newStatus
+comment9.target=void updateStatus(int, int, java.lang.String)
+numComments=14

@@ -1,0 +1,19 @@
+#BlueJ class context
+#Thu Oct 22 21:40:06 IST 2026
+comment0.target=CartPage
+comment1.target=CartPage()
+comment10.params=args
+comment10.target=void main(java.lang.String[])
+comment11.target=void run()
+comment2.target=void buildInterface()
+comment3.target=void refreshCart()
+comment4.params=item
+comment4.target=javax.swing.JPanel createItemCard(CartManager.CartItem)
+comment5.target=void showEmptyCart()
+comment6.target=void confirmOrder()
+comment7.target=void openMenu()
+comment8.params=text background foreground
+comment8.target=javax.swing.JButton createButton(java.lang.String, java.awt.Color, java.awt.Color)
+comment9.params=text
+comment9.target=javax.swing.JButton createSmallButton(java.lang.String)
+numComments=12
